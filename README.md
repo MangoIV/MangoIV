@@ -22,4 +22,5 @@
 - [My fork of the Adafruit nrF bootloader](https://github.com/MangoIV/Adafruit_nRF52_Bootloader/tree/master)
 - [DracuLady, a bluetooth split board with integrated MCU ](https://github.com/MangoIV/dracuLady)(I think at some point I accidentally lost all the files, gg. got working protos tho)
 - [my humminbird config](https://github.com/MangoIV/hummingbird-zmk-config)
+- Find other projects, such as my NixOS config over at [GitLab](https://gitlab.com/mangoiv)
 
