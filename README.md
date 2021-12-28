@@ -1,6 +1,6 @@
 ### MangoIV. 
 
-[![MangoIV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangoIV&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![MangoIV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangoIV&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I am
 - an undergrad student at Leipzig University studying CS
