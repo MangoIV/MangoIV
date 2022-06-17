@@ -3,7 +3,7 @@
 [![MangoIV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangoIV&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I am
-- a Haskell Consultant at MLabs
+- a Haskell Code Monkey at MLabs
 - an undergrad student at Leipzig University studying CS
 
 ## I do 
