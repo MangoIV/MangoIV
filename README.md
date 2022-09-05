@@ -2,14 +2,16 @@
 
 [![MangoIV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangoIV&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## I am
-- a Haskell Code Monkey at MLabs
-- an undergrad student at Leipzig University studying CS
-
-## I do 
+## What I'm doing
+- I study computer science at the university of Leipzig
+- I work for MLabs as Haskell and Nix developer 
+- Currently I'm interestens in 
+  - `singletons` in Haskell
+  - proving with Haskell 
+  - Effectsystems 
+  - compiling to categories
 - keyboards and PCBs such as the [DracuLad](https://github.com/MangoIV/dracuLad) and the 
 [Le Chiffre Bluetooth drop-in replacement PCB](https://github.com/MangoIV/le_chiff_ble)
-- a lot of experimentations around haskell and nix. 
 
 ## Projects
 - [a bunch of (mostly) haskell-related gists](https://gist.github.com/MangoIV)
