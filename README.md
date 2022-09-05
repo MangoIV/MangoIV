@@ -14,7 +14,7 @@
 [Le Chiffre Bluetooth drop-in replacement PCB](https://github.com/MangoIV/le_chiff_ble)
 
 ## Projects
-- [a bunch of (mostly) haskell-related gists](https://gist.github.com/MangoIV)
+- [a bunch of (mostly) haskell-related gists](https://paste.sr.ht/~mangoiv)
 - [DracuLad](https://github.com/MangoIV/dracuLad)
 - [Le Chiffre Bluetooth drop-in replacement PCB](https://github.com/MangoIV/le_chiff_ble)
 - [Le Chiffre BLE firmware](https://github.com/MangoIV/le_chiff_ble_config)
