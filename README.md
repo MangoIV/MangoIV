@@ -5,8 +5,8 @@
 ## What I'm doing
 - I study computer science at the university of Leipzig
 - I work for MLabs as Haskell and Nix developer 
-- Currently I'm interestens in 
-  - `singletons` in Haskell
+- Currently I'm interested in 
+  - `singletons` (and generally all useless typelevel shenanigans) in Haskell
   - proving with Haskell 
   - Effectsystems 
   - compiling to categories
@@ -21,7 +21,7 @@
 - [My fork of the qmk firmware](https://github.com/MangoIV/qmk_firmware)
 - [Pinsel, a Sweep-like keyboard based around the nrF Seeduino xiao](https://github.com/MangoIV/pinsel)
 - [My a dux dux config](https://github.com/MangoIV/zmk-config-a_dux_dux)
-- [My coeneish-zen config](https://github.com/MangoIV/zmk-config-Corne-ish-Zen)
+- [My corneish-zen config](https://github.com/MangoIV/zmk-config-Corne-ish-Zen)
 - [A macropad you can gift someone for christmas](https://github.com/MangoIV/christmas_board)
 - [My fork of the Adafruit nrF bootloader](https://github.com/MangoIV/Adafruit_nRF52_Bootloader/tree/master)
 - [DracuLady, a bluetooth split board with integrated MCU ](https://github.com/MangoIV/dracuLady)(I think at some point I accidentally lost all the files, gg. got working protos tho)
