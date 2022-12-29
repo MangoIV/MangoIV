@@ -31,7 +31,7 @@
 - [Cheap boi, my first self-designed keyboard with an ortho layout](https://github.com/MangoIV/cheap_boi)
 - Find other projects, such as my NixOS config over at [GitLab](https://gitlab.com/mangoiv)
 
-## My sourcehut 
+## [My sourcehut](https://sr.ht/~mangoiv/)
 
 Due to recent events wrt GitHub, I have decided to leave it for my personal projects that are *not keyboard related* (most of the
 keyboard related traffic still happens here). For a summary of why this is the case, please refer to [this post by the software freedom conservancy](https://sfconservancy.org/GiveUpGitHub/).
