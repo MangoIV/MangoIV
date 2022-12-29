@@ -6,7 +6,7 @@
 - I study computer science at the university of Leipzig
 - I work for MLabs as Haskell and Nix developer 
 - Currently I'm interested in 
-  - `singletons` (and generally all useless typelevel shenanigans) in Haskell
+  - `singletons`, `fcf` (and generally all useless typelevel shenanigans) in Haskell
   - proving with Haskell 
   - Effectsystems 
   - compiling to categories
