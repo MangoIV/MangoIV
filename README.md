@@ -43,7 +43,8 @@ I have moved to [sourcehut](https://sr.ht/) and I can really recommend you to ha
 
 #### Repositories
 
-- [A heterogeneous rose tree](https://git.sr.ht/~mangoiv/htree) (see for how to create a backtracking search on the typelevel 
+- [![builds.sr.ht status](https://builds.sr.ht/~mangoiv/htree/commits/main/.build.yml.svg)](https://builds.sr.ht/~mangoiv/htree/commits/main/.build.yml?) 
+  [A heterogeneous rose tree](https://git.sr.ht/~mangoiv/htree) (see for how to create a backtracking search on the typelevel 
   without having to backtrack via instance resolution)
 - [Dependent If in Haskell](https://git.sr.ht/~mangoiv/dependent-if) (to be used with [rebindable syntax](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/rebindable_syntax.html?highlight=rebindablesyntax#extension-RebindableSyntax))
 
@@ -59,7 +60,8 @@ I have moved to [sourcehut](https://sr.ht/) and I can really recommend you to ha
 
 #### Repositories
 
-- [My NixOS dotfiles](https://git.sr.ht/~mangoiv/dotfiles)
+- [![builds.sr.ht status](https://builds.sr.ht/~mangoiv/dotfiles/commits/main/.build.yml.svg)](https://builds.sr.ht/~mangoiv/dotfiles/commits/main/.build.yml?) 
+  [My NixOS dotfiles](https://git.sr.ht/~mangoiv/dotfiles)
 - [A batteries-included flake for a ghc devShell](https://git.sr.ht/~mangoiv/adhoc-ghc)
 
 #### Snippets
