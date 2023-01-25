@@ -27,7 +27,6 @@
   I accidentally lost all the files, gg. got working protos tho)
 - [My humminbird config](https://github.com/MangoIV/hummingbird-zmk-config)
 - [Cheap boi, my first self-designed keyboard with an ortho layout](https://github.com/MangoIV/cheap_boi)
-- Find other projects, such as my NixOS config over at [GitLab](https://gitlab.com/mangoiv)
 
 ## [My sourcehut](https://sr.ht/~mangoiv/)
 
