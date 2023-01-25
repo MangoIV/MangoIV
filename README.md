@@ -1,7 +1,5 @@
 ## [MangoIV.](https://blog.mangoiv.com)
 
-[![MangoIV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangoIV&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## What I'm doing
 - I study computer science at the university of Leipzig
 - I work for MLabs as Haskell and Nix developer 
