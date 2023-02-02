@@ -52,6 +52,7 @@ I have moved to [sourcehut](https://sr.ht/) and I can really recommend you to ha
 - [stupid poc OOP experiment](https://paste.sr.ht/~mangoiv/a9e82c2769dbb5894d7ef6c884c3476e6d5a4714) [usecase 1](https://paste.sr.ht/~mangoiv/01671ce2daa3af85633a23fb3123db8753190804) [usecase 2](https://paste.sr.ht/~mangoiv/d96c842f01163c525c94dfb9ef6b24a2f1ea3934) (adaptation of the famous [comonad blogpost by Gabriela Gonzalez](https://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html) with modern language features (`-XOverloadedRecordDot`))
 - [most overengineered implementation of the `findS` algorithm, ever](https://paste.sr.ht/~mangoiv/73fe3895d686326d48ca7e84a5ff870308a691c1) (see for how to use `NP` from [`sop-core`](https://flora.pm/packages/@hackage/sop-core) 
   as a heterogenous list with a non-trivial functor and for how to sensibly use the god function [`hcliftA2`](https://hackage.haskell.org/package/sop-core-0.5.0.2/docs/Data-SOP.html#v:hcliftA2))
+- [use pattern synonyms and type synonyms in unnecessarily complicated ways](https://paste.sr.ht/~mangoiv/499fe9c68eaea6741a7e9f066dbb4e07f1d7f180)
 
 ### Nix 
 
