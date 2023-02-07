@@ -4,11 +4,10 @@
 - I study computer science at the university of Leipzig
 - I work for MLabs as Haskell and Nix developer 
 - Currently I'm interested in 
-  - `singletons`, `fcf` (and generally all useless typelevel shenanigans) in Haskell
-  - proving with Haskell 
+  - types (yes, boring) 
   - Effectsystems 
   - compiling to categories
-  - agda
+  - ~~agda~~ lean4 
 - keyboards and PCBs such as the [DracuLad](https://github.com/MangoIV/dracuLad) and the 
 [Le Chiffre Bluetooth drop-in replacement PCB](https://github.com/MangoIV/le_chiff_ble)
 
