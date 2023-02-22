@@ -11,7 +11,7 @@
 - keyboards and PCBs such as the [DracuLad](https://github.com/MangoIV/dracuLad) and the 
 [Le Chiffre Bluetooth drop-in replacement PCB](https://github.com/MangoIV/le_chiff_ble)
 
-## Keybboard Projects
+## Keyboard Projects
 
 - [DracuLad](https://github.com/MangoIV/dracuLad)
 - [Le Chiffre Bluetooth drop-in replacement PCB](https://github.com/MangoIV/le_chiff_ble)
