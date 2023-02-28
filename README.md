@@ -59,7 +59,7 @@ I have moved to [sourcehut](https://sr.ht/) and I can really recommend you to ha
 
 - [![builds.sr.ht status](https://builds.sr.ht/~mangoiv/dotfiles/commits/main/.build.yml.svg)](https://builds.sr.ht/~mangoiv/dotfiles/commits/main/.build.yml?) 
   [My NixOS dotfiles](https://git.sr.ht/~mangoiv/dotfiles)
-- [![builds.sr.ht status](https://builds.sr.ht/~mangoiv/nu-shell.nix/commits/main/.build.yml.svg)](https://builds.sr.ht/~mangoiv/nu-shell.nix/commits/main/.build.yml?) [`nu-shell.nix` - A nix flake that outputs packages, docs, tests and devShell for the nushell](https://git.sr.ht/~mangoiv/nu-shell.nix) (if the build is failing, it's probably just because the CI took too long)
+- [![builds.sr.ht status](https://builds.sr.ht/~mangoiv/nu-shell.nix/commits/main/.build.yml.svg)](https://builds.sr.ht/~mangoiv/nu-shell.nix/commits/main/.build.yml?) [`nu-shell.nix` - A nix flake that outputs packages, docs, tests and devShell for the nushell](https://git.sr.ht/~mangoiv/nu-shell.nix) 
 - [A batteries-included flake for a ghc devShell](https://git.sr.ht/~mangoiv/adhoc-ghc)
 
 #### Snippets
