@@ -2,7 +2,6 @@
 
 ## What I'm doing
 - I study computer science at the university of Leipzig
-- I work for MLabs as Haskell and Nix developer 
 - Currently I'm interested in 
   - types (yes, boring) 
   - Effectsystems 
