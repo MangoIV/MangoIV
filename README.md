@@ -7,6 +7,7 @@
   - [effects](https://www.youtube.com/watch?v=wk3Qj15WPpk)
   - [cats](https://http.cat/status/300)
   - [plants](https://git.sr.ht/~mangoiv/htree)
+  - [generic programming](https://git.sr.ht/~mangoiv/haskell-sandbox/tree/e9d38ed30bfff4e695d37f4bd7e94bc664058a0e/item/Recursion.hs)
   - ~~agda~~ L∃∀ℕ4 
 - keyboards and PCBs such as the [DracuLad](https://github.com/MangoIV/dracuLad) and the 
 [Le Chiffre Bluetooth drop-in replacement PCB](https://github.com/MangoIV/le_chiff_ble)
