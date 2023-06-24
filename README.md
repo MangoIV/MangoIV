@@ -3,10 +3,10 @@
 ## What I'm doing
 - I study computer science at the university of Leipzig
 - Currently I'm interested in 
-  - types (yes, boring) 
-  - Effectsystems 
-  - compiling to categories
-  - ~~agda~~ lean4 
+  - [barbies](https://flora.pm/packages/@hackage/barbies)
+  - [effects](https://www.youtube.com/watch?v=wk3Qj15WPpk)
+  - [cats](https://http.cat/status/300)
+  - ~~agda~~ L∃∀ℕ4 
 - keyboards and PCBs such as the [DracuLad](https://github.com/MangoIV/dracuLad) and the 
 [Le Chiffre Bluetooth drop-in replacement PCB](https://github.com/MangoIV/le_chiff_ble)
 
