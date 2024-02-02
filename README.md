@@ -16,42 +16,10 @@
 - [My humminbird config](https://github.com/MangoIV/hummingbird-zmk-config)
 - [Cheap boi, my first self-designed keyboard with an ortho layout](https://github.com/MangoIV/cheap_boi)
 
-## [My sourcehut](https://sr.ht/~mangoiv/)
+## [My git](git.mangoiv.com)
 
 Due to recent events wrt GitHub, I have decided to leave it for my personal projects that are *not keyboard related* (most of the
 keyboard related traffic still happens here). For a summary of why this is the case, please refer to [this post by the software freedom conservancy](https://sfconservancy.org/GiveUpGitHub/).
 
-I have moved to [sourcehut](https://sr.ht/) and I can really recommend you to have a look. Other alternatives to GitHub include 
+I have moved to [my own git](git.mangoiv.com) and I can really recommend you to have a look. Other alternatives to GitHub include 
 [codeberg](https://codeberg.org/) or [gitlab](https://gitlab.com/). 
-
-### Haskell 
-
-#### Repositories
-
-- [![builds.sr.ht status](https://builds.sr.ht/~mangoiv/htree/commits/main/.build.yml.svg)](https://builds.sr.ht/~mangoiv/htree/commits/main/.build.yml?) 
-  [A heterogeneous rose tree](https://git.sr.ht/~mangoiv/htree) (see for how to create a backtracking search on the typelevel 
-  without having to backtrack via instance resolution)
-- [Dependent If in Haskell](https://git.sr.ht/~mangoiv/dependent-if) (to be used with [rebindable syntax](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/rebindable_syntax.html?highlight=rebindablesyntax#extension-RebindableSyntax))
-
-#### Snippets
-
-- [Compose `n` functors](https://paste.sr.ht/~mangoiv/e2c2ca16f990754807893ce7f37e4a92e6ab556a) (see for the tradeoff between 
-  creating evidence via a `GADT` and using a `newtype`)
-- [stupid poc OOP experiment](https://paste.sr.ht/~mangoiv/a9e82c2769dbb5894d7ef6c884c3476e6d5a4714) [usecase 1](https://paste.sr.ht/~mangoiv/01671ce2daa3af85633a23fb3123db8753190804) [usecase 2](https://paste.sr.ht/~mangoiv/d96c842f01163c525c94dfb9ef6b24a2f1ea3934) (adaptation of the famous [comonad blogpost by Gabriela Gonzalez](https://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html) with modern language features (`-XOverloadedRecordDot`))
-- [most overengineered implementation of the `findS` algorithm, ever](https://paste.sr.ht/~mangoiv/73fe3895d686326d48ca7e84a5ff870308a691c1) (see for how to use `NP` from [`sop-core`](https://flora.pm/packages/@hackage/sop-core) 
-  as a heterogenous list with a non-trivial functor and for how to sensibly use the god function [`hcliftA2`](https://hackage.haskell.org/package/sop-core-0.5.0.2/docs/Data-SOP.html#v:hcliftA2))
-- [a showcase of how far you get in terms of producttypes with only a hetereogeneous list, some newtype combinators, type- and patternsynonyms](https://paste.sr.ht/~mangoiv/fd81d116e3f3cf04bf100a8c92be40ae1801855a)
-
-### Nix 
-
-#### Repositories
-
-- [![builds.sr.ht status](https://builds.sr.ht/~mangoiv/dotfiles/commits/main/.build.yml.svg)](https://builds.sr.ht/~mangoiv/dotfiles/commits/main/.build.yml?) 
-  [My NixOS dotfiles](https://git.sr.ht/~mangoiv/dotfiles)
-- [![builds.sr.ht status](https://builds.sr.ht/~mangoiv/nu-shell.nix/commits/main/.build.yml.svg)](https://builds.sr.ht/~mangoiv/nu-shell.nix/commits/main/.build.yml?) [`nu-shell.nix` - A nix flake that outputs packages, docs, tests and devShell for the nushell](https://git.sr.ht/~mangoiv/nu-shell.nix) 
-- [A batteries-included flake for a ghc devShell](https://git.sr.ht/~mangoiv/adhoc-ghc)
-
-#### Snippets
-
-- [function to flatten attributesets with a seperator](https://paste.sr.ht/~mangoiv/4117d7c81dbeec7afa2eb48fbb5a517271fde26e) (this 
-  is especially useful for flake outputs which are not allowed to be nested)
