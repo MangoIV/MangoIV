@@ -23,7 +23,7 @@ Github
 - is a proprietary for-profit product
 - is currently in the process of being properly enshittified like other Microsoft products are already
 - steals your data in defiance of the licenses you choose to publish your code under and sells plagiates of your code to other users (also known as Github "Copilot" or "plagiarism as a service")
-- will pull open source projects into pieces as soon as some rich guy decides it's time to; this happened before, it *will* happen again
+- will pull open source projects into pieces as soon as some rich guy decides it's time to; this happened before, it *will* happen again cf. twitter, sourceforge
 
 That is why I have decided to leave it for my personal projects that are *not keyboard related* (most of the
 keyboard related traffic still happens here). Please also refer to [this post by the software freedom conservancy](https://sfconservancy.org/GiveUpGitHub/).
