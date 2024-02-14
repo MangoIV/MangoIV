@@ -18,8 +18,16 @@
 
 ## [My git](git.mangoiv.com)
 
-Due to recent events wrt GitHub, I have decided to leave it for my personal projects that are *not keyboard related* (most of the
-keyboard related traffic still happens here). For a summary of why this is the case, please refer to [this post by the software freedom conservancy](https://sfconservancy.org/GiveUpGitHub/).
+Github 
+- is owned by Microsoft
+- is a proprietary for-profit product
+- is currently in the process of being properly enshittified like other Microsoft products are already
+- steals your data in defiance of the licenses you choose to publish your code under and sells plagiates of your code to other users (also known as Github "Copilot" or "plagiarism as a service")
+- will pull open source projects into pieces as soon as some rich guy decides it's time to; this happened before, it *will* happen again
 
-I have moved to [my own git](git.mangoiv.com) and I can really recommend you to have a look. Other alternatives to GitHub include 
-[codeberg](https://codeberg.org/) or [gitlab](https://gitlab.com/). 
+That is why I have decided to leave it for my personal projects that are *not keyboard related* (most of the
+keyboard related traffic still happens here). Please also refer to [this post by the software freedom conservancy](https://sfconservancy.org/GiveUpGitHub/).
+
+I have moved to [my own git](git.mangoiv.com) and I can really recommend you to have a look. Other alternatives to GitHub include [codeberg](https://codeberg.org/) or [gitlab](https://gitlab.com/). 
+
+Also stay tuned for the future, people are implementing federation of git forges based on activity pub.
