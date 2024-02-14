@@ -16,7 +16,7 @@
 - [My humminbird config](https://github.com/MangoIV/hummingbird-zmk-config)
 - [Cheap boi, my first self-designed keyboard with an ortho layout](https://github.com/MangoIV/cheap_boi)
 
-## [My git](git.mangoiv.com)
+## [My self hosted git forge](https://git.mangoiv.com)
 
 Github 
 - is owned by Microsoft
@@ -28,6 +28,6 @@ Github
 That is why I have decided to leave it for my personal projects that are *not keyboard related* (most of the
 keyboard related traffic still happens here). Please also refer to [this post by the software freedom conservancy](https://sfconservancy.org/GiveUpGitHub/).
 
-I have moved to [my own git](git.mangoiv.com) and I can really recommend you to have a look. Other alternatives to GitHub include [codeberg](https://codeberg.org/) or [gitlab](https://gitlab.com/). 
+I have moved to [my own git](https://git.mangoiv.com) and I can really recommend you to have a look. Other alternatives to GitHub include [codeberg](https://codeberg.org/) or [gitlab](https://gitlab.com/). 
 
 Also stay tuned for the future, people are implementing federation of git forges based on activity pub.
